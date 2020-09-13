@@ -1,0 +1,173 @@
+commit 7767bdf480eb8ca63bdf1a623e836e242d0a8414
+Author: Aiden Stern <54781286+aidenstern@users.noreply.github.com>
+Date:   Sun Sep 6 20:19:53 2020 -0400
+
+    update README.md
+
+commit a8ec4730e4ee2712f0bde12748d05b00492fa3f9
+Author: Aiden Stern <54781286+aidenstern@users.noreply.github.com>
+Date:   Sun Sep 6 20:18:29 2020 -0400
+
+    update README.md
+
+commit 68e6bbb01d3b681f3f5db2ebe188bdad280e2628
+Author: Aiden Stern <aiden.stern@gmail.com>
+Date:   Tue Sep 1 12:12:44 2020 -0400
+
+    added brand list view
+
+commit 85f0b48f939e30ca8f1d4e9914fd031d3e1ba426
+Author: Aiden Stern <aiden.stern@gmail.com>
+Date:   Mon Aug 31 13:24:10 2020 -0400
+
+    added pagination to products
+
+commit 6fffe28266000af282f953525241312c82b10935
+Author: Aiden Stern <aiden.stern@gmail.com>
+Date:   Sun Aug 30 19:17:55 2020 -0400
+
+    brand field added to product
+
+commit 2b9deb58e8c3f211aa9ab56ca37b6fb52941eb60
+Author: Aiden Stern <aiden.stern@gmail.com>
+Date:   Sun Aug 30 01:49:45 2020 -0400
+
+    admin page change
+
+commit b358a9dd0cb497179a378c949c89a8e3606edc49
+Author: Aiden Stern <aiden.stern@gmail.com>
+Date:   Sat Aug 29 19:41:29 2020 -0400
+
+    category model changes
+
+commit 0174ef9e07b285c92a486cf6c44d55bb7e0a3383
+Author: Aiden Stern <aiden.stern@gmail.com>
+Date:   Thu Aug 27 08:06:46 2020 -0400
+
+    product init
+
+commit 52dbc3393eb20c60732b5031d1e512f9327b55c8
+Author: Aiden Stern <aiden.stern@gmail.com>
+Date:   Wed Aug 26 23:12:21 2020 -0400
+
+    product/category model init
+
+commit 68b7b8703ba8b9d5df1f49921b03b829f9544aa4
+Author: Aiden Stern <aiden.stern@gmail.com>
+Date:   Wed Aug 26 22:08:57 2020 -0400
+
+    account app init
+
+commit ea730403ff1e5681f230ebbb07296103a52fae24
+Author: Aiden Stern <aiden.stern@gmail.com>
+Date:   Sat Aug 22 17:53:15 2020 -0400
+
+    idk
+
+commit 279946114823629e4bbb5fbc8c0837c914a620c2
+Author: Aiden Stern <aiden.stern@gmail.com>
+Date:   Sat Aug 22 17:53:00 2020 -0400
+
+    return user info on login/registration
+
+commit fbe109103e26392670f333abb5c1e99511c8a092
+Author: Aiden Stern <aiden.stern@gmail.com>
+Date:   Fri Aug 21 17:43:56 2020 -0400
+
+    custom user model created / registered on admin
+
+commit 88fe3adcaffb5288bcb44cce25de51b3e49264c7
+Author: Aiden Stern <aiden.stern@gmail.com>
+Date:   Thu Aug 20 16:10:08 2020 -0400
+
+    oauth flow changed to public, works for login
+
+commit 44d271b59ca20453577b3f3876e6127344d8566c
+Author: Aiden Stern <aiden.stern@gmail.com>
+Date:   Thu Aug 20 01:47:47 2020 -0400
+
+    typo fix
+
+commit 6a8e5f838c523e3f677a0309bbeb332761ccb1a4
+Author: Aiden Stern <aiden.stern@gmail.com>
+Date:   Thu Aug 20 01:47:36 2020 -0400
+
+    better login views
+
+commit ff4c086cfbd67f62948243b667e5009bd101d84a
+Author: Aiden Stern <aiden.stern@gmail.com>
+Date:   Thu Aug 20 01:47:01 2020 -0400
+
+    api config for admin page
+
+commit e7ecfd0b5fd0c0140e46083b3c8f4ad56984d1c5
+Author: Aiden Stern <aiden.stern@gmail.com>
+Date:   Thu Aug 20 01:46:43 2020 -0400
+
+    utils to validate username and email
+
+commit cff60400c53aabe187c31da8443264ae15fcc418
+Author: Aiden Stern <aiden.stern@gmail.com>
+Date:   Thu Aug 20 01:46:09 2020 -0400
+
+    admin apiconfig init
+
+commit 27bf3ccd8ec9165689a5502a7fc5c79f8292103b
+Author: Aiden Stern <aiden.stern@gmail.com>
+Date:   Thu Aug 20 01:45:56 2020 -0400
+
+    new admin view for users
+
+commit 5b9e667e02226713695000aec357a54dd1854f52
+Author: Aiden Stern <aiden.stern@gmail.com>
+Date:   Thu Aug 20 01:45:46 2020 -0400
+
+    new social registration view, better oauth flows
+
+commit a9b8d8d115047eca6caf0e7cdfb3f58ed99edde0
+Author: Aiden Stern <aiden.stern@gmail.com>
+Date:   Wed Aug 19 18:50:54 2020 -0400
+
+    new custom user model
+
+commit d5513f902ab46b30e165126d1d8e730b2f093b95
+Author: Aiden Stern <aiden.stern@gmail.com>
+Date:   Tue Aug 18 00:53:16 2020 -0400
+
+    refactors
+
+commit 03575aa80b12d20fde3a8b013c74395aed4b33ee
+Author: Aiden Stern <aiden.stern@gmail.com>
+Date:   Tue Aug 18 00:42:47 2020 -0400
+
+    old token delete on user association/login
+
+commit 1ba4f70ea48aec2d45d511baa3c255dbc3ae7dc7
+Author: Aiden Stern <aiden.stern@gmail.com>
+Date:   Mon Aug 17 23:46:24 2020 -0400
+
+    exchange_token method revokes old user tokens
+
+commit df6617a0e31241fbc53ec9088075a1d49a92df11
+Author: Aiden Stern <aiden.stern@gmail.com>
+Date:   Mon Aug 17 18:25:15 2020 -0400
+
+    social auth/login additions
+
+commit 6de8fb5efe4e2e7ab75579b6eb77956b6bed6f91
+Author: Aiden Stern <aiden.stern@gmail.com>
+Date:   Wed Aug 12 19:41:35 2020 -0400
+
+    added readme
+
+commit 0b3e981ea7f8205d3f64410fa3b993d5eddcff43
+Author: Aiden Stern <aiden.stern@gmail.com>
+Date:   Wed Aug 12 14:36:23 2020 -0400
+
+    trying to get this god damn linter to work
+
+commit a83a5dbffca2e993b7ea0928054ee3fcddf48165
+Author: Aiden Stern <aiden.stern@gmail.com>
+Date:   Wed Aug 12 13:52:14 2020 -0400
+
+    first commit

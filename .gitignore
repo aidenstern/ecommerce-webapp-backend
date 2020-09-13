@@ -1,0 +1,11 @@
+# vscode file
+.vscode
+
+# pylint config
+.pylintrc
+
+# tests file
+tests
+
+# media file
+media
